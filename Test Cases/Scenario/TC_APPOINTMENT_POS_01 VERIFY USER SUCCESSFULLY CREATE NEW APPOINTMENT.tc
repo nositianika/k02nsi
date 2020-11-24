@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_APPOINTMENT_POS_01 VERIFY USER SUCCESSFULLY CREATE NEW APPOINTMENT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdd270ab-7a0b-43f7-b5ed-3b63fddddeba</testCaseGuid>
+</TestCaseEntity>
